@@ -7,7 +7,7 @@ Assets created by LMHPoly and are not included.
 ## Getting Started
 
 1. Add an empty GameObject to your scene called "Map"
-2. Attach the Tile Map Generator script to th GameObject
+2. Attach the Tile Map Generator script to the GameObject
 3. Adjsut the settings in the inspector for the script to suit your needs.
 4. Click "Generate Map"
 
